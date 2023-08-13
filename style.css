@@ -94,7 +94,7 @@ img{
     display: none;
 }
 
-.submenu:hover #carito{
+.submenu:hover #carrito{
     display: block;
     position: absolute;
     right: 0;
